@@ -53,7 +53,7 @@ It also features planned AI integration using LLMs to provide players with perso
 **Third-party Services**
 - Mapbox for map rendering
 - OpenWeatherMap for real-time weather data
-- Gemini or other LLM API for AI-generated coaching feedback
+- Gemini LLM API for AI-generated coaching feedback
 
 ---
 
