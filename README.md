@@ -60,7 +60,7 @@ It also features planned AI integration using LLMs to provide players with perso
 ## Architecture Diagram
 *Golf GPS & Caddy Mobile App high level architecture. (Click image for higher quality)*
 <p align="center">
-  <img src="high_level_diagram.png" alt="Diagram"/>
+  <img src="diagrams/high_level_diagram.png" alt="Diagram"/>
 </p>
 
 ---
@@ -338,37 +338,37 @@ export const logShot = async ({ latitude, longitude, club }) => {
 ## Screenshots
 
 ### Welcome Screen
-<img src="landing_page.png" alt="Welcome Screen" width="300"/>
+<img src="images/landing_page.png" alt="Welcome Screen" width="300"/>
 
 ---
 
 ### Home Screen
-<img src="home_screen.png" alt="Welcome Screen" width="300"/>
+<img src="images/home_screen.png" alt="Welcome Screen" width="300"/>
 
 ---
 
 ### Gameplay Screen 
-<img src="map_screen.png" alt="Map Screen" width="300"/>
+<img src="images/map_screen.png" alt="Map Screen" width="300"/>
 
 ---
 
 ### Session Review with AI Feedback
-<img src="session_review_screen.png" alt="Session Review Screen" width="300"/>
+<img src="images/session_review_screen.png" alt="Session Review Screen" width="300"/>
 
 ---
 
 ### Scorecard Screen
-<img src="scorecard_screen.png" alt="Scorecard Screen" width="300"/>
+<img src="images/scorecard_screen.png" alt="Scorecard Screen" width="300"/>
 
 ---
 
 ### Round History
-<img src="history_screen.png" alt="History Screen" width="300"/>
+<img src="images/history_screen.png" alt="History Screen" width="300"/>
 
 ---
 
 ### Settings Screen
-<img src="settings_screen.png" alt="Settings Screen" width="300"/>
+<img src="images/settings_screen.png" alt="Settings Screen" width="300"/>
 
 ---
 
