@@ -347,7 +347,7 @@ export const logShot = async ({ latitude, longitude, club }) => {
 
 ---
 
-### Map/Gameplay Screen
+### Gameplay Screen 
 <img src="map_screen.png" alt="Map Screen" width="300"/>
 
 ---
