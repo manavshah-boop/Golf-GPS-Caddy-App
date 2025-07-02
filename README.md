@@ -29,6 +29,43 @@ It also features planned AI integration using LLMs to provide players with perso
 
 ---
 
+## Screenshots
+
+### Welcome Screen
+<img src="images/landing_page.png" alt="Welcome Screen" width="300"/>
+
+---
+
+### Home Screen
+<img src="images/home_screen.png" alt="Welcome Screen" width="300"/>
+
+---
+
+### Gameplay Screen 
+<img src="images/map_screen.png" alt="Map Screen" width="300"/>
+
+---
+
+### Session Review with AI Feedback
+<img src="images/session_review_screen.png" alt="Session Review Screen" width="300"/>
+
+---
+
+### Scorecard Screen
+<img src="images/scorecard_screen.png" alt="Scorecard Screen" width="300"/>
+
+---
+
+### Round History
+<img src="images/history_screen.png" alt="History Screen" width="300"/>
+
+---
+
+### Settings Screen
+<img src="images/settings_screen.png" alt="Settings Screen" width="300"/>
+
+---
+
 ## Architecture Overview
 
 **Frontend (React Native)**
@@ -335,50 +372,8 @@ export const logShot = async ({ latitude, longitude, club }) => {
 
 ---
 
-## Screenshots
-
-### Welcome Screen
-<img src="images/landing_page.png" alt="Welcome Screen" width="300"/>
-
----
-
-### Home Screen
-<img src="images/home_screen.png" alt="Welcome Screen" width="300"/>
-
----
-
-### Gameplay Screen 
-<img src="images/map_screen.png" alt="Map Screen" width="300"/>
-
----
-
-### Session Review with AI Feedback
-<img src="images/session_review_screen.png" alt="Session Review Screen" width="300"/>
-
----
-
-### Scorecard Screen
-<img src="images/scorecard_screen.png" alt="Scorecard Screen" width="300"/>
-
----
-
-### Round History
-<img src="images/history_screen.png" alt="History Screen" width="300"/>
-
----
-
-### Settings Screen
-<img src="images/settings_screen.png" alt="Settings Screen" width="300"/>
-
----
-
-## Demo Video
-*(Link to your private or unlisted video demo here.)*
-
----
-
 ## How to Run (Optional)
-*This codebase is not publicly shared in full. For selected recruiters or interviewers, I can demonstrate the app live or share additional details upon request.*
+*This codebase is not publicly shared in full. For recruiters or interviewers, I can demonstrate the app live or share additional details upon request.*
 
 ---
 
