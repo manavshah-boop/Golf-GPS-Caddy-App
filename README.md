@@ -58,7 +58,10 @@ It also features planned AI integration using LLMs to provide players with perso
 ---
 
 ## Architecture Diagram
-*(Insert your system diagram image here, showing the React Native frontend, FastAPI backend, database, Mapbox, OpenWeatherMap, and Gemini/LLM integration.)*
+*(Golf GPS & Caddy Mobile App high level architecture.)*
+<p align="center">
+  <img src="architecure_diagram.png" alt="Diagram"/>
+</p>
 
 ---
 
