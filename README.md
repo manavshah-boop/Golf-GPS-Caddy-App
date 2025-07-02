@@ -1,6 +1,6 @@
 # Golf GPS & Caddy App
 <p align="center">
-  <img src="logo_nb.png" alt="Logo" width="120"/>
+  <img src="images/logo_nb.png" alt="Logo" width="120"/>
 </p>
 
 ---
