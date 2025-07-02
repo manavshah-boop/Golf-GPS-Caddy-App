@@ -58,7 +58,7 @@ It also features planned AI integration using LLMs to provide players with perso
 ---
 
 ## Architecture Diagram
-*(Golf GPS & Caddy Mobile App high level architecture. (Click image for higher quality))*
+*Golf GPS & Caddy Mobile App high level architecture. (Click image for higher quality)*
 <p align="center">
   <img src="high_level_diagram.png" alt="Diagram"/>
 </p>
