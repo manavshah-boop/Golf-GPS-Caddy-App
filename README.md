@@ -338,7 +338,7 @@ export const logShot = async ({ latitude, longitude, club }) => {
 ## Screenshots
 
 ### Welcome Screen
-<img src="landing_screen.png" alt="Welcome Screen" width="300"/>
+<img src="landing_page.png" alt="Welcome Screen" width="300"/>
 
 ---
 
