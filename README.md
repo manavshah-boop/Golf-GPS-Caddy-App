@@ -336,7 +336,34 @@ export const logShot = async ({ latitude, longitude, club }) => {
 ---
 
 ## Screenshots
-*(Include 2–4 high-quality images here showing the map view, course selection screen, session review, etc.)*
+
+### Welcome Screen
+<img src="assets/landing_screen.jpg" alt="Welcome Screen" width="300"/>
+
+---
+
+### Map/Gameplay Screen
+<img src="assets/map_screen" alt="Map Screen" width="300"/>
+
+---
+
+### Session Review with AI Feedback
+<img src="assets/session_review_screen.jpg" alt="Session Review Screen" width="300"/>
+
+---
+
+### Scorecard Screen
+<img src="assets/scorecard_screen.jpg" alt="Scorecard Screen" width="300"/>
+
+---
+
+### Round History
+<img src="assets/history_screen.jpg" alt="History Screen" width="300"/>
+
+---
+
+### Settings Screen
+<img src="assets/settings_screen.jpg" alt="Settings Screen" width="300"/>
 
 ---
 
