@@ -5,7 +5,7 @@
 
 ---
 
-## One-line summary
+## Brief Overview
 A mobile golf assistant for real-time course navigation, shot tracking, score automation, and AI-powered round analysis.
 
 ---
