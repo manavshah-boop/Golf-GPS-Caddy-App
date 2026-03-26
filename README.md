@@ -7,7 +7,8 @@
 
 ## Brief Overview
 A mobile golf assistant for real-time course navigation, shot tracking, score automation, and AI-powered round analysis.
-digicaddiegolf.com
+
+🔗 [digicaddiegolf.com](https://digicaddiegolf.com)
 ---
 
 ## Project Summary
